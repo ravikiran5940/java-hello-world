@@ -1,4 +1,3 @@
  Welcome Ravikiran Akundi !
-Info-hsbc project
-Be strong
+Info-hsbc project !
 
